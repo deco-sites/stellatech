@@ -21,6 +21,7 @@ export default function StockManagement({ description, desktopCardImage, desktop
         <Image
           class="lg:hidden w-full relative top-[-100px]"
           src={mobileImage}
+          alt={mobileImage}
           width={518.83}
           loading="lazy"
           decoding="async"
@@ -28,6 +29,7 @@ export default function StockManagement({ description, desktopCardImage, desktop
         <Image
           class="hidden lg:flex w-[70%] relative top-[-200px] ml-[3%]"
           src={desktopCoverImage}
+          alt={desktopCoverImage}
           width={788}
           loading="lazy"
           decoding="async"
@@ -35,6 +37,7 @@ export default function StockManagement({ description, desktopCardImage, desktop
         <Image
           class="hidden lg:flex w-[40%] absolute top-[15%] right-[20%]"
           src={desktopCardImage}
+          alt={desktopCardImage}
           width={400}
           loading="lazy"
           decoding="async"

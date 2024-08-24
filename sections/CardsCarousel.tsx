@@ -34,6 +34,7 @@ export default function CardsCarousel({ cards, description, desktopTitle, mobile
               width={655}
               height={345}
               src={card.image}
+              alt={card.image}
               loading="lazy"
               decoding="async"
             />

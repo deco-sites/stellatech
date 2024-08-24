@@ -22,6 +22,7 @@ export default function HeaderHero({ backgroundImage, description, image, items,
           width={1920}
           height={884}
           src={backgroundImage}
+          alt={backgroundImage}
           loading="eager"
           decoding="sync"
           preload={true}
@@ -57,6 +58,7 @@ export default function HeaderHero({ backgroundImage, description, image, items,
           class="absolute right-0 top-[15%] lg:top-[7%] z-20 object-contain z-20 w-[97%] lg:w-[40%]"
           width={1109.92}
           src={image}
+          alt={image}
           loading="eager"
           decoding="sync"
           preload={true}
