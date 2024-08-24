@@ -1,1 +1,70 @@
-{"name":"Home","path":"/","sections":[{"__resolveType":"site/sections/HeaderHero.tsx","backgroundImage":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/01b25657-f62a-4920-a6f0-8a5d20b2af54","image":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/df7f169f-4c51-45b7-b38a-7398802548e2","description":"StellaTech drives off-the-plan sales through immersive shared 3D experiences that connect customers to your project, it’s sales team and their channel partners seamlessly.","title":"redefining sales","items":[{"icon":"anstronomic1","text":"for developers"},{"icon":"anstronomic2","text":"for project marketers"},{"icon":"anstronomic3","text":"for channel partners"},{"icon":"anstronomic4","text":"for customers"}]}],"__resolveType":"website/pages/Page.tsx","seo":{"__resolveType":"website/sections/Seo/SeoV2.tsx"}}
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "site/sections/HeaderHero.tsx",
+      "backgroundImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/01b25657-f62a-4920-a6f0-8a5d20b2af54",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/df7f169f-4c51-45b7-b38a-7398802548e2",
+      "description": "StellaTech drives off-the-plan sales through immersive shared 3D experiences that connect customers to your project, it’s sales team and their channel partners seamlessly.",
+      "title": "redefining sales",
+      "items": [
+        {
+          "icon": "anstronomic1",
+          "text": "for developers"
+        },
+        {
+          "icon": "anstronomic2",
+          "text": "for project marketers"
+        },
+        {
+          "icon": "anstronomic3",
+          "text": "for channel partners"
+        },
+        {
+          "icon": "anstronomic4",
+          "text": "for customers"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/CardsCarousel.tsx",
+      "desktopTitle": "better quality = better sales",
+      "mobileTitle": "better quality",
+      "mobileSubtitle": "equals better sales",
+      "description": "StellaTech Guarantees your project will impress with the best quality assets and experience not  possible before online — from 8k resolution videos to ultra high-fidelity renders and interactive walkthroughs, your sales team can curate customers experience alone or via our Real Tour meetings at the highest quality on the market.",
+      "cards": [
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/625f75af-43dd-40c9-b6ec-c7df03ac9276"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/5bd4ae98-eff2-49ce-a66e-2dc94e7c065c"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/29e13d8a-eeb1-4117-ba2c-e2305b727ab9"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/09c1f5c0-be2f-45da-bc03-0a47415f355a"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/6d842c18-3def-4377-8150-23714418eb8b"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/c4aa5d53-7d58-44f7-81d2-5263d66a063c"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/StockManagement.tsx",
+      "mobileImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/1f56b04d-89ce-4c70-bec2-40bc383db108",
+      "desktopCoverImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/78f34397-20d3-4b43-85d2-0fdc7577b922",
+      "desktopCardImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/d784a665-f121-40db-bb0c-e92c67fca46c",
+      "title": "stock management",
+      "description": "Monitor and manage your stock and visualisations.  Create, share and allocate available stock. Update prices instantly for all users.  See the performance of your stock and sales live"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  }
+}
