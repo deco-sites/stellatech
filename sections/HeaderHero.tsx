@@ -22,6 +22,9 @@ export default function HeaderHero({ backgroundImage, description, image, items,
           width={1920}
           height={884}
           src={backgroundImage}
+          loading="eager"
+          decoding="sync"
+          preload={true}
       />
       <div class="relative top-0 left-10 lg:left-0 lg:px-[9%] pt-[7%] lg:pt-[1%] pb-[4%] w-full h-[90%] lg:h-full">
         <div
@@ -54,6 +57,9 @@ export default function HeaderHero({ backgroundImage, description, image, items,
           class="absolute right-0 top-[15%] lg:top-[7%] z-20 object-contain z-20 w-[97%] lg:w-[40%]"
           width={1109.92}
           src={image}
+          loading="eager"
+          decoding="sync"
+          preload={true}
       />
     </header>
   );

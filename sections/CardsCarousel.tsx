@@ -34,6 +34,8 @@ export default function CardsCarousel({ cards, description, desktopTitle, mobile
               width={655}
               height={345}
               src={card.image}
+              loading="lazy"
+              decoding="async"
             />
           </Slider.Item>
         ))}

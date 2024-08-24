@@ -22,16 +22,22 @@ export default function StockManagement({ description, desktopCardImage, desktop
           class="lg:hidden w-full relative top-[-100px]"
           src={mobileImage}
           width={518.83}
+          loading="lazy"
+          decoding="async"
         />
         <Image
           class="hidden lg:flex w-[70%] relative top-[-200px] ml-[3%]"
           src={desktopCoverImage}
           width={788}
+          loading="lazy"
+          decoding="async"
         />
         <Image
           class="hidden lg:flex w-[40%] absolute top-[15%] right-[20%]"
           src={desktopCardImage}
           width={400}
+          loading="lazy"
+          decoding="async"
         />
         <div class="pl-[58px] pr-[26px] relative top-[-50px] lg:absolute lg:max-w-[47%] lg:top-[40%] lg:right-[-17%] 2xl:right-[-20%]">
           <h1 class="text-[38px] 2xl:text-[55px] leading-8 2xl:leading-[83.66px] text-white font-black uppercase">{title}</h1>
