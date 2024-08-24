@@ -11,7 +11,7 @@ interface Props {
 
 export default function StockManagement({ description, desktopCardImage, desktopCoverImage, mobileImage, title }: Props) {
   return (
-    <div class="bg-primary pt-40 pb-48 lg:pl-[10%] lg:pr-[20%]">
+    <div class="bg-primary lg:pt-40 lg:pb-48 lg:pl-[10%] lg:pr-[20%]">
       <div
         class="lg:w-full lg:relative rounded-3xl lg:h-[400px] xl:h-[500px] 2xl:h-[600px]"
         style={{
