@@ -61,6 +61,42 @@
       "desktopCardImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/d784a665-f121-40db-bb0c-e92c67fca46c",
       "title": "stock management",
       "description": "Monitor and manage your stock and visualisations.  Create, share and allocate available stock. Update prices instantly for all users.  See the performance of your stock and sales live"
+    },
+    {
+      "__resolveType": "site/sections/RealTour.tsx",
+      "backgroundImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/f720364f-6046-4884-98a0-69d440fc131f",
+      "frontImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/3dcce718-f258-4d11-9a64-28aaa00b2b95",
+      "mobileDispositiveImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/63729bc6-d7d7-428c-b87c-058396484e48",
+      "title": "Real Tour",
+      "description": "surprise, delight and close more customers with StellaTech’s Real Tour and Real Sales Shared meeting experience. Our technology allows agents to showcase your development and its videos, renders and 3D walkthroughs in full resolution for your users without the compromise and limitations of Zoom or Microsoft Meetings."
+    },
+    {
+      "__resolveType": "site/sections/CardsTrio.tsx",
+      "cards": [
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/67192700-aab3-4ff5-90d7-77bbacc5b654",
+          "title": "real sales",
+          "description": "StellaTech goes beyond high resolution immersive experiences.  Our Real Sales technology allows your Agents to track live progress of contracts, and help your customers complete the sale live in our Real Tour experience from updating their contract details to uploading the right documents in real time."
+        },
+        {
+          "caption": {
+            "title": "Make a deposit",
+            "description": "Secure this property now."
+          },
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/3f80de97-48f6-4e52-9300-baf7a2eac079",
+          "title": "collect deposits",
+          "description": "Don’t wait on bank deposits to close the deal, with our in-app payment gateway your customers can secure their dream apartment, home or investment right there and then."
+        },
+        {
+          "caption": {
+            "title": "Review & sign your EoI",
+            "description": "Your Expression of Interest is now complete, please take your time to review and sign it."
+          },
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/a01bec96-b8cd-459d-8037-33641236c8ae",
+          "title": "Complete Contracts",
+          "description": "One platform from prospect to pre-construction contract, with StellaTech your prospects become clients in one single location — no more emails, sharing links and messy miscommunication."
+        }
+      ]
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
