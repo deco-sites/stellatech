@@ -124,6 +124,46 @@
       ]
     },
     {
+      "__resolveType": "site/sections/DiscussYourProject.tsx",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/d6363653-0f52-4b46-b785-2b35aaae3d75",
+      "step1": {
+        "title": "make your project real",
+        "description": "Whether your in the pre-planning stages or your project is ready to start selling off-plan, start a conversation around bringing your unbuilt project to life. <br /> <br /> Let’s start with your project name",
+        "CTAText": "NEXT"
+      },
+      "step2": {
+        "title": "Your project status",
+        "description": "We'd love to know where your project stands! Please share the current stage of your development with us.",
+        "CTAText": "NEXT",
+        "options": [
+          "Pre-DA",
+          "Post DA, preparing marketing",
+          "We have renders, but want something more",
+          "I’m just looking"
+        ]
+      },
+      "step3": {
+        "title": "Understanding the project",
+        "description": "Please provide the number of lots and/or apartments included in your development project.",
+        "CTAText": "NEXT",
+        "options": [
+          "Sub 200 lots / Apartments",
+          "Sub 100 lots / Apartments",
+          "Sub 50 lots / Apartments",
+          "Sub 25 lots / Apartments"
+        ]
+      },
+      "step4": {
+        "title": "Let’s get started",
+        "description": "Please provide your best contact details for us to reach you on to discuss bringing your project to life with StellaTech.",
+        "CTAText": "let’s go"
+      },
+      "success": {
+        "title": "We are ready to go",
+        "description": "We will get in touch within 24 business hours to better understand your project and how StellaTech accelerates sales."
+      }
+    },
+    {
       "__resolveType": "site/sections/Partnering.tsx",
       "title": "Interested in partnering?  <br />explore the partnership pathway",
       "description": "We are offering our product to exclusive partners to showcase the best 3D architectural providers, sales agents and their networks on StellaTech. <br /> <br /> If you would like to explore becoming a premium partner or learnmore about StellaTech and how we have revolutionised sales and customer experience for the property industry, get in touch.",

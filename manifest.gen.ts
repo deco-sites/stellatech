@@ -7,48 +7,50 @@ import * as $$$$$$$$$$$1 from "./apps/site.ts";
 import * as $$$$$$0 from "./sections/BlogPosts.tsx";
 import * as $$$$$$1 from "./sections/CardsCarousel.tsx";
 import * as $$$$$$2 from "./sections/CardsTrio.tsx";
-import * as $$$$$$3 from "./sections/Faq.tsx";
-import * as $$$$$$4 from "./sections/Footer.tsx";
-import * as $$$$$$5 from "./sections/FooterLP.tsx";
-import * as $$$$$$6 from "./sections/Header.tsx";
-import * as $$$$$$7 from "./sections/HeaderHero.tsx";
-import * as $$$$$$18 from "./sections/hero-1.tsx";
-import * as $$$$$$19 from "./sections/hero-2.tsx";
-import * as $$$$$$8 from "./sections/Hero.tsx";
-import * as $$$$$$20 from "./sections/hero2.tsx";
-import * as $$$$$$9 from "./sections/ImageWithParagraph.tsx";
-import * as $$$$$$10 from "./sections/LiveSales.tsx";
-import * as $$$$$$11 from "./sections/Logos.tsx";
-import * as $$$$$$12 from "./sections/Partnering.tsx";
-import * as $$$$$$13 from "./sections/RealTour.tsx";
-import * as $$$$$$14 from "./sections/StockManagement.tsx";
-import * as $$$$$$15 from "./sections/Testimonials.tsx";
-import * as $$$$$$16 from "./sections/Theme/Theme.tsx";
-import * as $$$$$$17 from "./sections/WorldMap.tsx";
+import * as $$$$$$3 from "./sections/DiscussYourProject.tsx";
+import * as $$$$$$4 from "./sections/Faq.tsx";
+import * as $$$$$$5 from "./sections/Footer.tsx";
+import * as $$$$$$6 from "./sections/FooterLP.tsx";
+import * as $$$$$$7 from "./sections/Header.tsx";
+import * as $$$$$$8 from "./sections/HeaderHero.tsx";
+import * as $$$$$$19 from "./sections/hero-1.tsx";
+import * as $$$$$$20 from "./sections/hero-2.tsx";
+import * as $$$$$$9 from "./sections/Hero.tsx";
+import * as $$$$$$21 from "./sections/hero2.tsx";
+import * as $$$$$$10 from "./sections/ImageWithParagraph.tsx";
+import * as $$$$$$11 from "./sections/LiveSales.tsx";
+import * as $$$$$$12 from "./sections/Logos.tsx";
+import * as $$$$$$13 from "./sections/Partnering.tsx";
+import * as $$$$$$14 from "./sections/RealTour.tsx";
+import * as $$$$$$15 from "./sections/StockManagement.tsx";
+import * as $$$$$$16 from "./sections/Testimonials.tsx";
+import * as $$$$$$17 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$18 from "./sections/WorldMap.tsx";
 
 const manifest = {
   "sections": {
     "site/sections/BlogPosts.tsx": $$$$$$0,
     "site/sections/CardsCarousel.tsx": $$$$$$1,
     "site/sections/CardsTrio.tsx": $$$$$$2,
-    "site/sections/Faq.tsx": $$$$$$3,
-    "site/sections/Footer.tsx": $$$$$$4,
-    "site/sections/FooterLP.tsx": $$$$$$5,
-    "site/sections/Header.tsx": $$$$$$6,
-    "site/sections/HeaderHero.tsx": $$$$$$7,
-    "site/sections/hero-1.tsx": $$$$$$18,
-    "site/sections/hero-2.tsx": $$$$$$19,
-    "site/sections/Hero.tsx": $$$$$$8,
-    "site/sections/hero2.tsx": $$$$$$20,
-    "site/sections/ImageWithParagraph.tsx": $$$$$$9,
-    "site/sections/LiveSales.tsx": $$$$$$10,
-    "site/sections/Logos.tsx": $$$$$$11,
-    "site/sections/Partnering.tsx": $$$$$$12,
-    "site/sections/RealTour.tsx": $$$$$$13,
-    "site/sections/StockManagement.tsx": $$$$$$14,
-    "site/sections/Testimonials.tsx": $$$$$$15,
-    "site/sections/Theme/Theme.tsx": $$$$$$16,
-    "site/sections/WorldMap.tsx": $$$$$$17,
+    "site/sections/DiscussYourProject.tsx": $$$$$$3,
+    "site/sections/Faq.tsx": $$$$$$4,
+    "site/sections/Footer.tsx": $$$$$$5,
+    "site/sections/FooterLP.tsx": $$$$$$6,
+    "site/sections/Header.tsx": $$$$$$7,
+    "site/sections/HeaderHero.tsx": $$$$$$8,
+    "site/sections/hero-1.tsx": $$$$$$19,
+    "site/sections/hero-2.tsx": $$$$$$20,
+    "site/sections/Hero.tsx": $$$$$$9,
+    "site/sections/hero2.tsx": $$$$$$21,
+    "site/sections/ImageWithParagraph.tsx": $$$$$$10,
+    "site/sections/LiveSales.tsx": $$$$$$11,
+    "site/sections/Logos.tsx": $$$$$$12,
+    "site/sections/Partnering.tsx": $$$$$$13,
+    "site/sections/RealTour.tsx": $$$$$$14,
+    "site/sections/StockManagement.tsx": $$$$$$15,
+    "site/sections/Testimonials.tsx": $$$$$$16,
+    "site/sections/Theme/Theme.tsx": $$$$$$17,
+    "site/sections/WorldMap.tsx": $$$$$$18,
   },
   "apps": {
     "site/apps/decohub.ts": $$$$$$$$$$$0,

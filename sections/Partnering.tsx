@@ -28,7 +28,7 @@ export default function Partnering({ CTAText, description, successDescription, t
                 }}
               >
                 <input class="w-full rounded-[8.22px] bg-primary h-full text-white outline-none" type="text" />
-                <button class="absolute rounded-r-[8.22px] h-full bg-[#9A1E85] text-white font-black text-[12.65px] leading-[19.24px] uppercase right-0 px-[8px]">{CTAText}</button>
+                <button class="absolute rounded-r-[8.22px] h-full bg-[#9A1E85] text-white font-black text-[12.65px] lg:text-[20px] leading-[19.24px] uppercase right-0 px-[8px]">{CTAText}</button>
               </div>
             </>
           }
