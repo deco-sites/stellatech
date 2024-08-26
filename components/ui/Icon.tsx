@@ -41,6 +41,8 @@ export type AvailableIcons =
   | "User"
   | "Visa"
   | "WhatsApp"
+  | "Twitter"
+  | "Telegram"
   | "XMark"
   | "Zoom"
   | "Logo"

@@ -129,6 +129,32 @@
       "description": "We are offering our product to exclusive partners to showcase the best 3D architectural providers, sales agents and their networks on StellaTech. <br /> <br /> If you would like to explore becoming a premium partner or learnmore about StellaTech and how we have revolutionised sales and customer experience for the property industry, get in touch.",
       "successDescription": "Thanks for your request, one of our team members will get in touch within 24 business hours.",
       "CTAText": "request a demo"
+    },
+    {
+      "__resolveType": "site/sections/FooterLP.tsx",
+      "subscribe": {},
+      "social": [
+        {
+          "icon": "Instagram",
+          "href": "/"
+        },
+        {
+          "icon": "Twitter",
+          "href": "/"
+        },
+        {
+          "icon": "Linkedin",
+          "href": "/"
+        },
+        {
+          "icon": "WhatsApp",
+          "href": "/"
+        },
+        {
+          "icon": "Telegram",
+          "href": "/"
+        }
+      ]
     }
   ],
   "__resolveType": "website/pages/Page.tsx",

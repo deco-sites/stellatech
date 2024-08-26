@@ -11,6 +11,7 @@
 
   body {
     overflow-x: hidden;
+    background-color: #333333;
   }
 
   /** Remove default styles from input[type=number] */
