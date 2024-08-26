@@ -97,6 +97,31 @@
           "description": "One platform from prospect to pre-construction contract, with StellaTech your prospects become clients in one single location — no more emails, sharing links and messy miscommunication."
         }
       ]
+    },
+    {
+      "__resolveType": "site/sections/WorldMap.tsx",
+      "desktopImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/570be1b2-31e5-4392-983a-98b3d7071589",
+      "mobileImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12273/d2088924-abdc-426d-ae1e-d660d872d6bb",
+      "title": "global portfolio",
+      "description": "StellaTech was born from a true global need, where the physical borders were holding back the dreams of customers in search for their place to call home, in need to find a off the plan property anywhere in the world. We are here to break down the walls and connect people with places, allowing you and your agents to close deals fast and securely.",
+      "locations": [
+        {
+          "country": "Australia",
+          "city": "brisbane"
+        },
+        {
+          "city": "New york",
+          "country": "USA"
+        },
+        {
+          "city": "dubai",
+          "country": "UAE"
+        },
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ]
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
