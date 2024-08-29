@@ -49,7 +49,8 @@ export type AvailableIcons =
   | "anstronomic1"
   | "anstronomic2"
   | "anstronomic3"
-  | "anstronomic4";
+  | "anstronomic4"
+  | "ArrowBottom";
 
 interface Props extends JSX.SVGAttributes<SVGSVGElement> {
   /**

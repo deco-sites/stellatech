@@ -50,4 +50,7 @@
 	<symbol id="ArrowsPointingOut" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15" /></symbol>
 	<symbol id="ArrowLeft" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 8 17" fill="none"><path d="M12 4.0271L10.59 5.4371L16.17 11.0271H4V13.0271H16.17L10.59 18.6171L12 20.0271L20 12.0271L12 4.0271Z" fill="currentColor"/></symbol>
 	<symbol id="ArrowRight" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 8 17" fill="none"><path d="M20 11.0271H7.83L13.42 5.4371L12 4.0271L4 12.0271L12 20.0271L13.41 18.6171L7.83 13.0271H20V11.0271Z" fill="currentColor"/></symbol>
+
+	<symbol id="ArrowBottom" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12.0586 21.0664C12.3008 21.3086 12.6992 21.3086 12.9414 21.0664L19.8164 14.1914C20.0586 13.9492 20.0586 13.5508 19.8164 13.3086C19.5742 13.0664 19.1758 13.0664 18.9336 13.3086L13.125 19.1172L13.125 4.375C13.125 4.03125 12.8438 3.75 12.5 3.75C12.1562 3.75 11.875 4.03125 11.875 4.375L11.875 19.1172L6.0664 13.3086C5.82422 13.0664 5.42578 13.0664 5.18359 13.3086C4.94141 13.5508 4.94141 13.9492 5.18359 14.1914L12.0586 21.0664Z" fill="white"/></symbol>
+
 </svg>
